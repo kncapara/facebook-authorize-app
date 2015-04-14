@@ -1,0 +1,12 @@
+{
+    "name": "facebook/authorize-app",
+    "require": {
+        "facebook/php-sdk-v4": "4.0.*"
+    },
+    "authors": [
+        {
+            "name": "Kenn Capara",
+            "email": "kenn@teleserv.ph"
+        }
+    ]
+}
